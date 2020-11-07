@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\USER-3749\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "cSpell.words": [
+        "pandas",
+        "pyplot"
+    ],
+    "cSpell.ignoreWords": [
+        "numpy",
+        "sklearn"
+    ]
+}
